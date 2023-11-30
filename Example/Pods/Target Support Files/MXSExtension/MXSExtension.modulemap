@@ -1,0 +1,6 @@
+framework module MXSExtension {
+  umbrella header "MXSExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

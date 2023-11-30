@@ -1,0 +1,22 @@
+{
+  "name": "MXSExtension",
+  "version": "0.1.0",
+  "summary": "A short description of MXSExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Michauxs/MXSExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Michauxs": "363335983@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Michauxs/MXSExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MXSExtension/Classes/**/*"
+}
